@@ -1,0 +1,412 @@
+<mjml>
+<mj-head>
+<mj-style>
+
+.link-color {
+    color: white;
+    text-decoration: none;
+}
+</mj-style>
+</mj-head>
+
+<mj-raw>
+
+<!--Start of top main email table -->
+
+</mj-raw>
+  
+  <mj-body background-color="#f4f4f4">
+    <mj-section background-color="#ffffff">
+      <mj-group>
+      <mj-column>
+      <mj-raw>
+        <!-- Start of Left column -->
+        </mj-raw>
+
+        <mj-image padding="0" src="https://i.postimg.cc/d0Wy8MW7/logo.jpg" width="200px"align="left" />
+        
+      
+      </mj-column>
+     
+      <mj-column>
+        <mj-raw>
+        <!-- Start of Right column -->
+        </mj-raw>
+        <mj-text color="black" align="right">
+     <a href="#" color="black">View Online</a>
+        </mj-text>
+      </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-raw>
+    <!--Start of Menu Section-->
+    </mj-raw>
+   
+    <mj-section padding="0" background-color="#a63434">
+      <mj-column padding="0">
+        <mj-navbar padding="0" base-url="https://mjml.io" hamburger="hamburger" ico-color="#ffffff">
+          <mj-navbar-link font-weight="900" padding="0" href="#" color="#ffffff">Rooms </mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff"></mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff">Apartments</mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff">Penthouses</mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff">Houses</mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff">Cottages</mj-navbar-link>
+          <mj-navbar-link font-weight="900" href="#" color="#ffffff">Offices</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    
+    <mj-raw>
+    <!--End of Menu Section-->
+    </mj-raw>
+
+    <mj-raw>
+        <!-- Start of Hero Section -->
+        </mj-raw>
+    
+    <mj-section padding="0">
+    <mj-column>
+    <mj-divider padding="0" border-width="10px" border-color="white" />
+    </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+    <mj-column padding="0">
+    <mj-image padding="0"src="https://i.postimg.cc/s20qZqyK/hero.jpg" width="600px"/>
+    </mj-column>
+    </mj-section>
+
+    <mj-raw>
+        <!-- End of Hero Section -->
+        </mj-raw>
+
+        <mj-raw>
+        <!-- Start of Always The Best Offer Section-->
+        </mj-raw>
+
+
+    <mj-section padding="0" background-color="#ffffff">
+    <mj-column padding="30px 0px 0px 0px" background-color="#ffffff">
+   <mj-text align="center" font-size="25px" font-weight="600" background-color="white" color="#444444">
+   Always the Best Offers For You
+   </mj-text>
+    <mj-text align="center"  padding="10px 30px 20px 30px" align="center" background-color="#ffffff" color="#444444"line-height="2">
+   We at RedLock Properties do our best to satisfy our clients whether that be selling or buying a property. This is our promise to you.
+   </mj-text>
+    </mj-column>
+    </mj-section>
+
+     <mj-raw>
+        <!-- End of Always The Best Offer Section-->
+        </mj-raw>
+
+
+    <mj-section padding="0">
+
+     <mj-raw>
+        <!-- Start of Forest Hills Column-->
+        </mj-raw>
+    <mj-column>
+    <mj-divider padding="0" border-width="10px" border-color="#f4f4f4" />
+    </mj-column>
+    </mj-section>
+    <mj-section background-color="white">
+    <mj-column  background-color="white" >
+    <mj-image src="https://i.postimg.cc/4xqPp9mk/image1.jpg" width="300px"/>
+  
+  
+    <mj-text font-weight="900" font-size="16px"background-color="white">
+    Forest Hills, NY 11375
+    </mj-text>
+    <mj-text>
+    <span style="color:#a63434"> 1 bed = 1 bath = 725sqft</span>
+    </mj-text>
+     <mj-text line-height="1.5" color="#444444">
+    Forest Hills is one of the most prestigious neighborhoods in New York. This is the place for those who have class. </mj-text>
+     <mj-text font-weight="500"font-size="15px">
+    $2,000 <span style="font-weight: 400;"> /mo </span>
+    </mj-text>
+    <mj-button href="#" background-color="#a63434" align="left">
+    More Details
+    </mj-button>
+      </mj-column>
+
+      <mj-raw>
+        <!-- End of Forest Hills Column-->
+        </mj-raw>
+      
+
+      <mj-raw>
+        <!-- Start of West Village Column-->
+        </mj-raw>
+      <mj-column background-color="white" >
+    
+    <mj-image src="https://i.postimg.cc/Nfw8bDj4/image2.jpg" width="300px"/>
+  
+    <mj-text font-weight="900" font-size="16px" background-color="white">
+    West Village NY, 11375
+    </mj-text>
+    <mj-text>
+   <span style="color:#a63434"> 2 bed = 1 bath = 800sqft</span>
+    </mj-text>
+     <mj-text line-height="1.5" color="#444444">
+   Enjoy coffeshops and hipster culture? Then this West Village apartment is just the place for you!</mj-text>
+    <mj-text font-weight="500"font-size="15px">
+    $3,025 <span style="font-weight: 400;"> /mo </span>
+    </mj-text>
+    <mj-button href="#" background-color="#a63434" align="left">
+    More Details
+    </mj-button>
+      </mj-column>
+
+      <mj-raw>
+        <!-- End  of West Village Column-->
+        </mj-raw>
+    </mj-section>
+
+<mj-raw>
+        <!-- Start of Los Angeles Mansion -->
+        </mj-raw>
+    
+    <mj-section padding="0">
+    <mj-column>
+    <mj-divider padding="0" border-width="10px" border-color="#f4f4f4" />
+    </mj-column>
+    </mj-section>
+    <mj-section padding="0">
+    <mj-column padding="0">
+    <mj-image padding="0" src="https://i.postimg.cc/8cXMD2vQ/image3.jpg" />
+    </mj-column>
+    </mj-section>
+
+<mj-raw>
+        <!-- Start of Los Angeles Left Column-->
+        </mj-raw>
+    <mj-section background-color="white">
+    <mj-column  background-color="white" >
+    
+  
+  
+    <mj-text font-weight="900" font-size="16px" background-color="white">
+    
+Los Angeles, CA 11327
+    </mj-text>
+    <mj-text>
+   <span style="color:#a63434"> 3 bed = 2 bath = 3250sqft</span>
+    </mj-text>
+    <mj-text line-height="1.5" color="#444444">
+   Surf, sun, celebrities, wannabes, and the beach - What else could you possibly want?</mj-text>
+    <mj-text font-weight="500"font-size="15px">
+    $7,450 <span style="font-weight: 400;"> /mo </span>
+    </mj-text>
+    <mj-button href="#" background-color="#a63434" align="left">
+    More Details
+    </mj-button>
+      </mj-column>
+
+      <mj-raw>
+        <!-- End of Los Angeles Left Column-->
+        </mj-raw>
+
+        <mj-raw>
+        <!-- Start of Features Right Column-->
+        </mj-raw>
+      <mj-column background-color="white" >
+    
+    
+  
+    <mj-text padding-left="35px" font-weight="900" font-size="16px" background-color="white">
+   Features
+    </mj-text>
+    
+    <mj-text>
+    <mj-raw><span style="padding: 10px;"> √ </span> </mj-raw> 	Hardwood Floors
+    </mj-text>
+    <mj-text>
+    <mj-raw><span style="padding: 10px;"> √ </span> </mj-raw> 	High Ceilings
+    </mj-text>
+    <mj-text>
+    <mj-raw><span style="padding: 10px;"> √ </span> </mj-raw> Full Bath and shower w tub
+    </mj-text>
+    <mj-text>
+    <mj-raw><span style="padding: 10px;"> √ </span> </mj-raw>Designer Kitchen
+    </mj-text>
+    <mj-text>
+    <mj-raw><span style="padding: 10px;"> √ </span> </mj-raw> Stainless steel Appliances
+    </mj-text>
+      </mj-column>
+    </mj-section>
+
+     <mj-raw>
+        <!-- End of Features Right Column-->
+        </mj-raw>
+
+         <mj-raw>
+        <!-- Start of Harlem Section-->
+        </mj-raw>
+    <mj-section padding="0">
+
+     <mj-raw>
+        <!-- Start of Left Column-->
+        </mj-raw>
+    <mj-column>
+    <mj-divider padding="0" border-width="10px" border-color="#f4f4f4" />
+    </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="white">
+    <mj-column padding="30px 0px">
+    <mj-image padding="0" align="center" width="275px" height="200px" src="https://i.postimg.cc/9Xg74jDs/image4.jpg" />
+    </mj-column>
+
+    <mj-raw>
+        <!-- End of Left Column-->
+        </mj-raw>
+
+        <mj-raw>
+        <!-- Start of Right Column-->
+        </mj-raw>
+    
+    <mj-column padding="30px 0px">
+    <mj-text font-weight="900" font-size="16px" background-color="white">
+    
+Harlem, NY 27254
+    </mj-text>
+    <mj-text>
+    <span style="color:#a63434"> 2 bed = 1 bath = 725sqft</span>
+    </mj-text>
+     <mj-text line-height="1.5" color="#444444">
+    Are you a person full of soul who likes autheniticity and a bit of grit? Harlem is place for you!</mj-text>
+     <mj-text font-weight="500"font-size="15px">
+    $2,500 <span style="font-weight: 400;"> /mo </span>
+    </mj-text>
+    <mj-button href="#" background-color="#a63434" align="left">
+    More Details
+    </mj-button>
+    </mj-column>
+    
+    <mj-raw>
+        <!-- End of Right Column-->
+        </mj-raw>
+
+    </mj-section>
+
+    <mj-raw>
+        <!-- Start of West Hollywood Section-->
+        </mj-raw>
+
+    <mj-section padding="0">
+
+   
+
+    <mj-column>
+    <mj-divider padding="0" border-width="10px" border-color="#f4f4f4" />
+    </mj-column>
+    </mj-section>
+
+     
+    <mj-section padding="0" background-color="white">
+    
+    <mj-raw>
+        <!-- Start of Left Column-->
+        </mj-raw>
+
+    <mj-column padding="30px 0px">
+    <mj-text font-weight="900" font-size="16px" background-color="white">
+    
+West Hollywood, CA 43872
+    </mj-text>
+    <mj-text>
+    <span style="color:#a63434"> 1 bed = 1 bath = 850sqft</span>
+    </mj-text>
+     <mj-text line-height="1.5" color="#444444">
+    Looking for a neighborhood full of eccentric people? West Hollywood has your name on it.</mj-text>
+    <mj-text font-weight="500"font-size="15px">
+    $3,000 <span style="font-weight: 400;"> /mo </span>
+    </mj-text>
+    <mj-button href="#" background-color="#a63434" align="left">
+    More Details
+    </mj-button>
+    </mj-column>
+
+    <mj-raw>
+        <!-- End of Left Column-->
+        </mj-raw>
+
+        <mj-raw>
+        <!-- Start of Right Column-->
+        </mj-raw>
+
+    <mj-column padding="30px 0px">
+    <mj-image padding="0"width="275px" height="200px" src="https://i.postimg.cc/1zKgyxxC/image5.jpg" />
+    </mj-column>
+    <mj-raw>
+        <!-- End of Right Column-->
+        </mj-raw>
+    
+    </mj-section>
+
+    <mj-raw>
+        <!-- Start of Footer Section-->
+        </mj-raw>
+
+    <mj-section padding="20px 0px 50px 0px" background-color="#a63434">
+
+    <mj-raw>
+        <!-- Start of Left Column-->
+        </mj-raw>
+
+    <mj-column padding="0" background-color="#a63434">
+    <mj-image padding-right="171px"  width="200px" src="https://i.postimg.cc/9MrqbxSL/footer-logo.jpg" />
+    <mj-text padding-bottom="0px" color="white">
+    Luxury Estates
+    </mj-text>
+    <mj-text padding-top="0px"color="white">
+    East Pixel Bld. 99, Creative City 9000, Republic of Design
+    </mj-text>
+    </mj-column>
+
+    <mj-raw>
+        <!-- End of Left Column-->
+        </mj-raw>
+     
+     <mj-group >
+
+<mj-raw>
+        <!-- Start of Right Column-->
+        </mj-raw>
+    
+    <mj-column >
+
+    <mj-image href="#" width="30px" padding="10px 0px 0px 0px" src="https://i.postimg.cc/qM8616bH/ico-facebook.jpg" />
+
+    </mj-column>
+   
+    
+    <mj-column>
+     
+      <mj-image href="#" width="30px" padding="10px 0px 0px 0px"src="https://i.postimg.cc/h4VGnW99/ico-twitter.jpg" />
+     
+   </mj-column>
+
+    <mj-column>
+    
+     <mj-image href="#" width="30px"  padding="10px 0px 0px 0px" src="https://i.postimg.cc/nh2jJbfd/ico-instagram.jpg" />
+
+     </mj-column>
+     <mj-column>
+
+      <mj-image href="#" width="30px" padding="10px 0px 0px 0px"src="https://i.postimg.cc/s21XCMcX/ico-linkedin.jpg" />
+   </mj-column>
+
+   <mj-raw>
+        <!-- End of Right Column-->
+        </mj-raw>
+   
+      </mj-group>
+    </mj-section>
+    <mj-raw>
+        <!-- End of Footer Section-->
+        </mj-raw>
+
+  </mj-body>
+</mjml>
